@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # 🤖 AI Chat API
 
 A production-ready AI Chat API built with FastAPI and Ollama.
@@ -73,3 +75,6 @@ http://127.0.0.1:8000/docs
 Golam Israil
 
 AI Engineer
+=======
+# AI-Chat-API
+>>>>>>> 3629a77e4aaae1d1b204abf6b28edc43ebe43ec8
