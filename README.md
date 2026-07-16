@@ -42,7 +42,7 @@ AI_Chat_API/
 ## ▶️ Installation
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/golam74?tab=repositories)
 
 cd AI_Chat_API
 
